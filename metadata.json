@@ -1,0 +1,8 @@
+{
+  "name": "Cyan Forge",
+  "description": "A high-contrast, cyberpunk-themed note-taking app that uses Gemini to generate Markdown or Visual notes from your photos and videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
